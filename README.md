@@ -1,2 +1,2 @@
 # enterprise-saas-pos
-# Enterprise-Grade Cloud-Native SaaS POS System with Real-Time Analytics.
+# This project is an enterprise-grade SaaS Point of Sale system built to handle real-world retail operations at scale. It includes multiple dashboards for different user roles, real-time analytics for business insights, secure authentication and authorization, and seamless integration with modern payment gateways. The system follows cloud-native principles and clean architecture practices to ensure scalability, maintainability, and performance.
